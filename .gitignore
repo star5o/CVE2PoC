@@ -1,0 +1,22 @@
+# Reports - not to be uploaded
+VALIDATION_REPORT.md
+SUCCESS_STATISTICS_REPORT.md
+cve_list_excel.csv
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
